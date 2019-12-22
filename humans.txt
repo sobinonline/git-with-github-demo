@@ -8,7 +8,8 @@
 # diff change test
     <name> -- <role> -- <twitter>
 Sobin added some more changes for adding more data
-
+#Sobin added example for gitpush
+#Sobin understood example for git pull
 # THANKS
 
   Bibhash Roy
